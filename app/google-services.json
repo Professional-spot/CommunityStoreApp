@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193388840686",
+    "firebase_url": "https://communitystore-3c1c0-default-rtdb.firebaseio.com",
+    "project_id": "communitystore-3c1c0",
+    "storage_bucket": "communitystore-3c1c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193388840686:android:99b8ad842308c02c43d5ff",
+        "android_client_info": {
+          "package_name": "com.dzhosef.communitystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193388840686-nl5cpfp5rvq2adu9mjkegbe7kt0d5sg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0CKN_thAwV5v0W1I5EjhDR9RiDhPPR6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193388840686-nl5cpfp5rvq2adu9mjkegbe7kt0d5sg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

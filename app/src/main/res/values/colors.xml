@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#81B19B</color>
+    <color name="purple_500">#81B19B</color>
+    <color name="purple_700">#81B19B</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#81B19B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#81B19B</color>
+    <color name="colorPrimaryDark">#81B19B</color>
+    <color name="colorAccent">#81B19B</color>
+    <color name="colorAccent_2">#81B19B</color>
+    <color name="text_color">#FF545861</color>
+    <color name="text_color_6">#A6ADBC</color>
+    <color name="text_color_2">#FF545861</color>
+    <color name="text_color_3">#1A1B1E</color>
+    <color name="text_color_4">#FF545861</color>
+    <color name="text_color_5">#000000</color>
+    <color name="secondary_color">#A491C3</color>
+    <color name="secondary_color_2">#81B19B</color>
+    <color name="secondary_color_2.2">#81B19B</color>
+    <color name="secondary_color_2.22">#BBE3B6</color>
+    <color name="secondary_color_3">#FF545861</color>
+    <color name="reload">#A6ADBC</color>
+    <color name="toolbar_color">#81B19B</color>
+    <color name="cardView_color">#81B19B</color>
+    <color name="cardView_color2">#85EF78</color>
+    <color name="toolbar_options">#ffffff</color>
+    <color name="listView_background_color">#81B19B</color>
+    <color name="cardView_outline_color">#81B19B</color>
+    <color name="cardView_pressed_color">#81B19B</color>
+    <color name="toolbar_outline_color">#81B19B</color>
+    <color name="transparent_color">#0016AD05</color>
+    <color name="color_drawer">#FF545861</color>
+    <color name="background_color">#D2DAD1</color>
+    <color name="recyclerview">#9FF3F3F3</color>
+    <color name="recyclerview2">#B5E4E4E4</color>
+    <color name="edittext">#F3F3F3</color>
+    <color name="cardView_color_a">#C8C9A9</color>
+    <color name="cardView_colors">#F9CEAB</color>
+    <color name="cardView_color_d">#FF9C97</color>
+    <color name="cardView_color_f">#FF4060</color>
+    <color name="cardView_color_g">#C8C9A9</color>
+    <color name="cardView_color_h">#F9CEAB</color>
+    <color name="cardView_color_j">#FF9C97</color>
+
+
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" >
+        <shape>
+            <solid
+                android:color="@color/toolbar_color" />
+            <stroke
+                android:width="0dp"
+                android:color="@color/toolbar_color" />
+            <corners
+                android:radius="0dp" />
+            <!-- <padding
+               - android:left="10dp"
+                 android:top="10dp"
+                 android:right="10dp"
+                 android:bottom="10dp" />-->
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/toolbar_color"
+                android:endColor="@color/toolbar_color"
+                android:angle="270" />
+            <stroke
+                android:width="1dp"
+
+                 android:color="@color/toolbar_outline_color"
+            />
+
+            <corners
+                android:radius="0dp" />
+            <!-- <padding
+                -android:left="10dp"
+                 android:top="10dp"
+                 android:right="10dp"
+                 android:bottom="10dp" />-->
+        </shape>
+    </item>
+</selector>

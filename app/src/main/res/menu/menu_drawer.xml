@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/profile"
+                android:title="@string/profile"
+                android:icon="@drawable/man"
+
+                />
+
+
+
+            <item
+                android:id="@+id/store"
+                android:title="@string/my_store"
+                android:icon="@drawable/sell_icon"
+                />
+            <item
+                android:id="@+id/support"
+                android:title="@string/support"
+                android:icon="@drawable/support_icon"
+                />
+            <item
+                android:id="@+id/menuLogout1"
+                android:title="@string/logout"
+                android:icon="@drawable/login_icon"
+                />
+
+
+
+        </menu>
+
+
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>

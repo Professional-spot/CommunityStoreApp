@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CommunityStore</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="sign_up">sign up</string>
+
+    <string name="sign_in">sign in</string>
+    <string name="call_us">Call us at <a href="tel:+12687840716">+12687840716</a></string>
+    <string name="email_us">Email us at <a href="mailto:konel@live.com">konel@live.com</a></string>
+    <string name="cents">00</string>
+    <string name="product_image">product image</string>
+    <string name="product_image_sell">product image sell</string>
+    <string name="avatar_home">avatar</string>
+    <string name="lbs">/lbs</string>
+    <string name="available">available:</string>
+    <string name="call">call</string>
+    <string name="money">$</string>
+    <string name="prompt_password">prompt_password</string>
+    <string name="prompt_email">prompt_email</string>
+    <string name="register">register</string>
+    <string name="back">BACK</string>
+    <string name="nothing_found">nothing found</string>
+    <string name="logout">Logout</string>
+    <string name="support">Support</string>
+    <string name="my_store">My Store</string>
+    <string name="profile">Profile</string>
+    <string name="report_user">report user</string>
+    <string name="_2_days_ago">2 days ago</string>
+    <string name="added">Added:</string>
+    <string name="all_saints">All Saints</string>
+    <string name="location">Location:</string>
+    <string name="seller_name">seller name</string>
+    <string name="seller">Seller:</string>
+    <string name="_0">0</string>
+    <string name="lb">/lb</string>
+    <string name="product">Product</string>
+    <string name="name_of_product">Name of product</string>
+</resources>
